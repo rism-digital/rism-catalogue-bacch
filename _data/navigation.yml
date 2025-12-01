@@ -1,0 +1,12 @@
+- name:
+    en: "Home"
+    de: "Startseite"
+    fr: "Accueil"
+    it: "Home"
+  link: /index.html
+- name:
+    en: "Works"
+    de: "Werke"
+    fr: "Oeuvres"
+    it: "Opere"
+  link: /search.html
