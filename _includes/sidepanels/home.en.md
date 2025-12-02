@@ -14,7 +14,7 @@ Edited by Claudio Bacciagaluppi, Marius Barendt, Lynn Beutler, Lydia Carlisi, Gi
 - [Basses chiffrées](#BC)
 - [Chants donnés](#CD)
 - [Sujets de fuge](#SF)
-- [Solfèges](#SO)
+- [Solfèges](#SO)   
 
-[Bibliography](#Biblio)
 
+[Bibliography](#Biblio)   

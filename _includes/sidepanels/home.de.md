@@ -14,7 +14,8 @@ Herausgegeben von Claudio Bacciagaluppi, Marius Barendt, Lynn Beutler, Lydia Car
 - [Basses chiffrées](#BC)
 - [Chants donnés](#CD)
 - [Sujets de fuge](#SF)
-- [Solfèges](#SO)
+- [Solfèges](#SO)   
 
-[Bibliographie](#Biblio)
+
+[Bibliographie](#Biblio)   
 
