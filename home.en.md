@@ -13,10 +13,11 @@ As part of the project [*Luigi Cherubini and the teaching of composition at the 
 
 In 1843, Cécile Cherubini (1773–1864), the composer's widow, commissioned Auguste Bottée de Toulmon (1797–1850) to compile a sales catalogue of her husband's estate. Toulmon used a list, now lost, which Cherubini himself had compiled of his own compositions. However, this list contained only the ‘best’ works, and for each of these only the ‘best’ source, i.e. the complete score, was listed. This meant that Toulmon’s catalogue was by no means a catalogue of works in the modern sense. Subsequent attempts to compile a catalogue of works (Bellasis 1874, Lesure/Sartori 1962) are largely based on Toulmon’s publication. Each new volume of the Luigi Cherubini Complete Works (published by Anton J. Benjamin / Simrock, Berlin) under the direction of Helen Geyer and the International Cherubini Society now brings decisive progress in source knowledge with regard to a catalogue of works for all genres of composition, and thus a basis for a comprehensive catalogue of works. 
 
-As part of the project Luigi Cherubini and the teaching of composition at the Paris Conservatoire as a comprehensive training practice (c. 1810-1840), an online partial catalogue of all of Cherubini's pedagogical and theoretical works was compiled between 2021 and 2025. These include works such as solfèges and basso continuo exercises, which are not usually considered ‘compositions’ but are of great importance in making Cherubini's understanding of the craft of composition and the pedagogical teaching of music theory tangible. Important preliminary studies for the present catalogue include the edition of the ‘basses chiffrées’ and ‘sujets de fugue’ by Sean Curtice (2016) and the edition of the ‘Cours de contrepoint’ by Maxime Margollé (2022). The works were catalogued as standard data using the RISM software Muscat.
+This partial catalogue includes works such as solfège and basso continuo exercises, which are not usually considered ‘compositions’ but are nevertheless of great importance in understanding Cherubini’s approach to composition and the teaching of music theory. Important preliminary studies for this catalogue include the edition of the basses chiffrées and sujets de fugue by Sean Curtice (2016) and the edition of the Cours de contrepoint by Maxime Margollé (2022). The works were catalogued as standard data using the RISM software Muscat.
 
-The works are identified by the abbreviation LCC (Luigi Cherubini Catalogue) or the RISM abbreviation BacCh, followed by an abbreviation key for the respective genre. This key is followed by a sequential number, which, as an identification number, does not indicate chronology or key sequence, but is based on the oldest printed sources. For the basses chiffrées, chants donnés and sujets de fugue, the numbering in Curtice (2016) is largely adopted, which in turn mostly follows the order in Pierre (1900, 1901). For the solfèges, the order in the first editions (Agus et al. \[1799\], Agus et al. \[1801\], Cherubini \[1838\]) is followed as far as possible.
+The works are identified by an abbreviation for the respective genre. The abbreviation is followed by a sequential numbering system, which, in the sense of an identification number, does not indicate chronology or key sequence, but is based on the oldest printed sources. For the basses chiffrées, chants donnés and sujets de fugue, the numbering in Curtice (2016) is largely adopted, which in turn largely adopts the order in Pierre (1900, 1901). For the solfèges, the order in the first editions is used as far as possible (Agus et al. \[1799\], Agus et al. \[1801\], Cherubini \[1838\]).
 
+In view of the musicological and music-theoretical interest in historical forms of composition teaching, individual exercise pieces are listed here and treated as independent “works”. The decision to assign all basses, solfeggios or fugue themes by Cherubini their own identification number is primarily motivated by the desire to make these exercises more easily identifiable for research and teaching purposes. 
 
 ## Overview of the primary sources {#Sources}
 
@@ -40,10 +41,10 @@ See also:
 
 Contemporary printed editions:
 - Cherubini \[1835\]
-- Cherubini \[1836\]2
-- Cherubini \[1835–6\] (German translation)
-- Cherubini (1837) (English translation)
-- Cherubini, L. (1841)2 (English translation)
+- Cherubini \[1836\] (second, improved edition)
+- Cherubini \[1835–6\] (German/French edition)
+- Cherubini 1837 (English translation)
+- Cherubini 1841 (second edition of the English translation)
 
 See also: 
 - Autograph Errata-List, undated but before February 1836, US-CAh MS Thr 518 (37)
@@ -64,10 +65,10 @@ Manuscripts:
 - F-Pc MS-7664 (7): occasional models (copy by Aimé Leborne)
 
 Printed editions:
-- Cherubini \[1847\]
+- Cherubini \[1847?\]
 
 Literature:
-- Curtice (2016)
+- Curtice 2016
 
 ### Audition pieces (MO) {#MO}
 
@@ -84,8 +85,8 @@ Handschriften
 - F-Pan AJ/37/197, dr. 3 (1): audition piece for bassoon, 1819
 - F-Pan AJ/37/197, dr. 3 (2): audition piece for bassoon, 1822
 - F-Pan AJ/37/198, dr. 2: audition piece for clarinet, 1823
-- F-Pn Ms. 1693 (8): “Solo de Cor”, 1825 
-- F-Pn Ms. 1693 (9): “Morceau de Basson”, 1838
+- F-Pn Ms. 1693 (8): audition piece for French horn, 1825 
+- F-Pn Ms. 1693 (9): audition piece for bassoon, 1838
 - GB-L olim private collection Oliver Wray Neighbour (1923-2015): audition piece for oboe
 
 Printed editions:
@@ -94,8 +95,8 @@ Printed editions:
 
 Literature: 
 - Curtice 2016
-- Parker 1972/77
 - Hochstein 2016
+- Parker 1972/77
 
 ### Basses chiffrées (BC) {#MH}
 
@@ -137,12 +138,15 @@ Manuscripts:
 - D-B Mus. Ms. Autogr. L Cherubini 1
 - D-B Mus. Ms. Autogr. L. Cherubini 214 (1): “Chant donné, mis en partition”, 1822
 - F-Pn MS-3728: Leçons (Chants données de Catel, Bossec, Cherubini, p. 105)
+- F-Pn MS-3808 : A. Leborne, Cours d’harmonie de l’année 1813 (with occasional Chants donnés by Cherubini)
+- S-Smf MMS394: "Cours de composition" (amongst others, with Chants donnés)
 
 Printed editions: 
-- Pierre (1900) 
+- Cherubini \[1835\] (amongst others, with Chants donnés)
+- Pierre 1900
 
 Literature:
-- Curtice (2016)
+- Curtice 2016
 
 
 ### Sujets de fugue (SF) {#SF}
@@ -167,11 +171,11 @@ See also:
 - private collection Daniel Lainé, France: “Contrepoint d’après le cours que j’ai suivi avec Cherubini” (counterpoint exercises by Pierre Baillot)
 
 Printed editions: 
-- Zimmerman (1840) 
-- Pierre (1900)
+- Pierre 1900
+- Zimmerman 1840
 
 Literature:
-- Curtice (2016)
+- Curtice 2016
 
 
 ### Solfèges (SO) {#SO}
@@ -217,15 +221,15 @@ Collections:
 - Agus et al. \[1801\]
 
 Literature:
-- Curtice (2016)
+- Curtice 2016
 
 
 
 ## Bibliography {#Biblio}
 
 ### Printed sources
-- Agus J. et al. (an VIII \[1799/1800\]) Principes élémentaires de musique arrêtés par les membres du Conservatoire, pour servir à l'étude dans cet établissement suivis de solfèges par les C.ens Agus, Catel, Chérubini, Gossec, Langlé, Lesueur, Méhul, et Rigel. Paris.  
-- Agus J. et al. (an X \[1801/1802\]) Solfèges pour servir à l’étude dans le Conservatoire de musique par les citoyens Agus, Catel, Cherubini, Gossec, Langlé, Le Sueur, Martini, Méhul et Rey. Paris. Crit. ed. see Salandini-Verwaerde, C. (ed.) in prep.  
+- Agus J. et al. (an VIII \[1799/1800\]) Principes élémentaires de musique arrêtés par les membres du Conservatoire, pour servir à l'étude dans cet établissement suivis de solfèges par les C.ens Agus, Catel, Chérubini, Gossec, Langlé, Lesueur, Méhul, et Rigel. Paris: Conservatoire.  
+- Agus J. et al. (an X \[1801/1802\]) Solfèges pour servir à l’étude dans le Conservatoire de musique par les citoyens Agus, Catel, Cherubini, Gossec, Langlé, Le Sueur, Martini, Méhul et Rey. Paris: Conservatoire.
 - Baillot, P. / Kreutzer, R. / Rode, P. \[1802\]. Méthode de violon. Paris: Magasin de musique. 
 - Baillot, P. \[1804\]. Méthode de violoncelle et de basse d'accompagnement. Paris, Imprimerie du Conservatoire, an XI.
 - Cherubini, L. \[1835\] Cours de Contrepoint et de Fugue. Paris: Maurice Schlesinger, ohne Nummer. 
@@ -238,17 +242,19 @@ Literature:
 - Cherubini, L. (\[1847?\]) Marches d’harmonie pratiquées dans la composition, produisant des suites régulières de consonances et de dissonnances. Paris: Chez E. Troupenas, Plattennummer 1996. 
 - Colet, H.-R. (1846). Partimenti, ou traité spécial de l’accompagnement pratique au piano. Paris: Chabal. 
 - Pierre, C. et al. (1900) Basses et chants donnés aux examens et concours des classes d'harmonie et d'accompagnement – années 1827–1900 – par Bazin, Benoist, Cherubini, Léo Delibes, Théodore Dubois, Fissot, César Franck, E. Guiraud, F. Halévy, Leborne, Ambroise Thomas et Ch.-M. Widor, recueillis par Constant Pierre. Paris: Heugel et C.ie. 
-- Pierre, C. et al. (1901) Sujets de fugue et thêmes d'improvisation donnés aux concours d'essai pour le grand prix de Rome, aux concours de fugue, aux concours et examens d'orgue (années 1804 à 1900). 388 sujets recueillis par Constant Pierre. Paris: Heugel et C.ie.
+- Pierre, C. et al. (1901) Sujets de fugue et thèmes d’improvisation donnés aux concours d’essai pour le grand prix de Rome, aux concours de fugue, aux concours et examens d’orgue (années 1804 à 1900) par Adolphe Adam, Auber, Barbereau, Bazille, Bazin, Emile Bernard, Berton, Georges Bizet, Carafa, Cherubini, Clapisson, Jules Cohen, Colin, Dallier, Léo Delibes, Théodore Dubois, Duprato, H. Duvernoy, Fissot, Gevaert, Gigout, Gounod, Guilmant, Halévy, Victor Massé, Massenet, Onslow, Paladilhe, Pierné, Pugno, Reber, Samuel Rousseau, Saint-Saëns, Salomé, Ambroise Thomas, etc. 388 sujets recueillis par Constant Pierre. Paris: Heugel et C.ie.
 - Vidal, P. (ed.) (1904) Cherubini, L.: 52 Leçons d’harmonie recueillies et réalisées par Paul Vidal, 3 vols. Paris: Enoch & C.ie.  
 - Zimmerman, J. (1840). Encyclopédie du pianiste-compositeur. Paris: l’auteur.
 
 ### Secondary literature 
-- Bellasis E. (1874)  Cherubini: Memorials Illustrative of His Life, London: Burns and Oates. Reprint New York: Da Capo Press, 1971. 
+- Bellasis E. (1874) Cherubini: Memorials Illustrative of His Life, London: Burns and Oates. Reprint New York: Da Capo Press, 1971. 
+- Bottée de Toulmon, A. (ed.) (1843) Notice des manuscrits autographes de la musique composée par feu M.-L.-C.-Z.-S. Chérubini. Paris: chez les principaux éditeurs de musique, 1843. Reprint London: H. Baron, 1967. 
 - Curtice, S. (2016). Partimenti and Other Pedagogical Works of Luigi Cherubini. Abschlussarbeit Master of Arts in Komposition und Musiktheorie an der Musikakademie der Stadt Basel – Schola Cantorum Basiliensis, Referent Prof. Felix Diergarten. Typoskript, Basel.
 - Eigeldinger, J.-J. (ed.) (2017). Luigi Cherubini / Fryderyk Chopin, Trois fugues de Luigi Cherubini mises en partition de piano. Paris: Société française de musicologie. 
 - Federhofer, H. and Nauhaus, G. (eds.) (2003). Robert Schumann, Studien zur Kontrapunktlehre (Neue Augabe sämtlicher Werke, Serie 7, Werkgruppe 3). Mainz: Schott.
 - Hochstein, W. (2016). Art. Cherubini, Luigi in: MGG Online, ed. von L. Lütteken. Kassel: Bärenreiter, 2016, https://www.mgg-online.com/mgg/stable/537377
 - Lesure, F./Sartori, C. (1962) Tentativo di un catalogo della produzione di Luigi Cherubini, in Damerini, A. (ed.) Luigi  Cherubini nel Il centenario della nascita. Firenze: Olschki, 135–187. 
 - Margollé, M. (2022) (ed.), L. Cherubini: Course in Counterpoint and Fugue, Rachelle-Chiasson-Taylor, Frauke Jürgensen (übers.), Warschau, NIFC, https://doi.org/10.56693/mt.2022.01.07 
-- Parker, Ch. G. (1972/77). A bibliography and thematic index of Luigi Cherubini's instrumental music. PhD diss., Kent State University. 
-- Toulmon, A.  Bottée de (ed.) (1843) Notice des manuscrits autographes de la musique composée par feu M.-L.-C.-Z.-S. Chérubini. Paris: chez les principaux éditeurs de musique, 1843. Reprint London: H. Baron, 1967. 
+- Parker, Ch. G. (1972/77). A bibliography and thematic index of Luigi Cherubini's instrumental music. PhD diss., Kent State University. \[PhD diss. 1972, addition 1977.\]
+- Schröder, C. (1960). Luigi Cherubinis Werkkatalog, in: Musik und Gesellschaft 10 (1960), 599–602.
+- Schröder, C. (1961). Chronologisches Verzeichnis der Werke Luigi  Cherubinis unter Kennzeichnung der in der Musikabteilung der Berliner Staatsbibliothek erhaltenen Handschriften, in: Beiträge zur Musikwissenschaft 3, 24–60.
