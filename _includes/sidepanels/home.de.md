@@ -7,6 +7,8 @@ Herausgegeben von Claudio Bacciagaluppi, Marius Barendt, Lynn Beutler, Lydia Car
 
 [https://catalogs.rism.online/BacCh](https://catalogs.rism.online/BacCh)
 
+---
+
 [Einleitung](#Intro)
 
 [Übersicht der Quellen](#Sources)

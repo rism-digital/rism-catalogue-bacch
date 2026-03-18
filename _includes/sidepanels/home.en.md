@@ -7,6 +7,8 @@ Edited by Claudio Bacciagaluppi, Marius Barendt, Lynn Beutler, Lydia Carlisi, Gi
 
 [https://catalogs.rism.online/BacCh](https://catalogs.rism.online/BacCh)
 
+---
+
 [Introduction](#Intro)
 
 [Overview of the primary sources](#Sources)

@@ -97,7 +97,7 @@ Literatur:
 - Hochstein 2016
 - Parker 1972/77
 
-### Basses chiffrées (BC) {#MH}
+### Basses chiffrées (BC) {#BC}
 
 Quellen:
 
