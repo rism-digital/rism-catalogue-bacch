@@ -8,6 +8,9 @@ permalink: /index.html
 
 As part of the project [*Luigi Cherubini and the teaching of composition at the Paris Conservatoire as a comprehensive training practice (ca. 1810-1840)*](https://www.hkb-interpretation.ch/projekte/luigicherubini), an online partial catalog of all of Cherubini's pedagogical and theoretical works was compiled between 2021 and 2025. The project was supported by the Swiss National Science Foundation ([No. 200698](https://data.snf.ch/grants/grant/200698)). 
 
+---
+
+{% include theme-info.md %}
 
 ## Introduction {#Intro}
 
